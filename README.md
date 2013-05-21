@@ -29,4 +29,6 @@ Rofl's Rules uses Less.js to render sexy LESS stylesheets in the browser. This h
 
 All content is Creative Commons Attribution-ShareAlike 3.0 Unported licensed, which means you can copy, reuse, remix,and do whatever you like with Rofl's Rules (even if you intend to profit, but good luck with that) so long as you share it with the same license and give me ("Rofl," "Mike Schneider," or "@MikeASchneider" will suffice) credit. The code is MIT licensed, I guess? Do whatever you want with the code examples; I don't think they're substantial enough to get their own license.
 
+The latest version of Rofl's Rules as of summer 2012 is viewable online at [http://roflsrules.com/](http://roflsrules.com/).
+
 If you have any questions, open a GitHub Issue or hit me up on Twitter [@MikeASchneider](http://twitter.com/mikeaschneider).
