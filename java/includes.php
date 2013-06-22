@@ -77,9 +77,10 @@ function makeFooter() {
 		$(function(){$(window).scroll(function(){$("#navbox").css("top",Math.max(0,193-$(this).scrollTop()))})})
 	</script>
 	<script type="text/javascript">
-	
+	/*
+	//GOOGLE ANALYTICS CODE: UNCOMMENT AND REPLACE YOUR ANALYTICS ID TO USE
 	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-32467757-1']);
+	  _gaq.push(['_setAccount', 'YOUR ANALYTICS CODE HERE']);
 	  _gaq.push(['_trackPageview']);
 	
 	  (function() {
@@ -87,7 +88,7 @@ function makeFooter() {
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
-	
+	*/
 	</script>
 	</html>
 	<?php
